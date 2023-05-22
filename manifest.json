@@ -1,11 +1,11 @@
 {
-    "name": "Flutter Namer App",
-    "short_name": "Flutter Namer App",
+    "name": "Flutter Name Generator",
+    "short_name": "Flutter Name Generator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A simple random name generator built with Flutter.",
+    "description": "A simple Flutter name generator app.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
